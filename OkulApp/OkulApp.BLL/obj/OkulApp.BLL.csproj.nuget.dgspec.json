@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj": {}
+    "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.BLL\\OkulApp.BLL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\DAL\\DAL.csproj": {
+    "C:\\Users\\kaans\\source\\repos\\OkulApp\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\kaans\\source\\repos\\OkulApp\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\kaans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -77,14 +77,14 @@
         }
       }
     },
-    "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj": {
+    "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.BLL\\OkulApp.BLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj",
+        "projectUniqueName": "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.BLL\\OkulApp.BLL.csproj",
         "projectName": "OkulApp.BLL",
-        "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.BLL\\OkulApp.BLL.csproj",
+        "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.BLL\\OkulApp.BLL.csproj",
         "packagesPath": "C:\\Users\\kaans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.BLL\\obj\\",
+        "outputPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.BLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",
@@ -108,11 +108,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\DAL\\DAL.csproj": {
-                "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\DAL\\DAL.csproj"
+              "C:\\Users\\kaans\\source\\repos\\OkulApp\\DAL\\DAL.csproj": {
+                "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\DAL\\DAL.csproj"
               },
-              "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
-                "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj"
+              "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
+                "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.MODEL\\OkulApp.MODEL.csproj"
               }
             }
           }
@@ -157,14 +157,14 @@
         }
       }
     },
-    "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
+    "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.MODEL\\OkulApp.MODEL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+        "projectUniqueName": "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
         "projectName": "OkulApp.MODEL",
-        "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
+        "projectPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.MODEL\\OkulApp.MODEL.csproj",
         "packagesPath": "C:\\Users\\kaans\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kaans\\source\\repos\\OkulAppSube1BIL\\OkulApp.MODEL\\obj\\",
+        "outputPath": "C:\\Users\\kaans\\source\\repos\\OkulApp\\OkulApp.MODEL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.1\\Components\\Offline Packages",

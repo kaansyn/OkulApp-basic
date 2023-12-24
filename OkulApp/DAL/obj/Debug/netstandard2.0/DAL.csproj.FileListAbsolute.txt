@@ -8,3 +8,13 @@ C:\Users\kaans\source\repos\OkulAppSube1BIL\DAL\obj\Debug\netstandard2.0\DAL.Ass
 C:\Users\kaans\source\repos\OkulAppSube1BIL\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
 C:\Users\kaans\source\repos\OkulAppSube1BIL\DAL\obj\Debug\netstandard2.0\DAL.dll
 C:\Users\kaans\source\repos\OkulAppSube1BIL\DAL\obj\Debug\netstandard2.0\DAL.pdb
+C:\Users\kaans\source\repos\OkulApp\DAL\bin\Debug\netstandard2.0\DAL.deps.json
+C:\Users\kaans\source\repos\OkulApp\DAL\bin\Debug\netstandard2.0\DAL.dll
+C:\Users\kaans\source\repos\OkulApp\DAL\bin\Debug\netstandard2.0\DAL.pdb
+C:\Users\kaans\source\repos\OkulApp\DAL\obj\Debug\netstandard2.0\DAL.csproj.AssemblyReference.cache
+C:\Users\kaans\source\repos\OkulApp\DAL\obj\Debug\netstandard2.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaans\source\repos\OkulApp\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfoInputs.cache
+C:\Users\kaans\source\repos\OkulApp\DAL\obj\Debug\netstandard2.0\DAL.AssemblyInfo.cs
+C:\Users\kaans\source\repos\OkulApp\DAL\obj\Debug\netstandard2.0\DAL.csproj.CoreCompileInputs.cache
+C:\Users\kaans\source\repos\OkulApp\DAL\obj\Debug\netstandard2.0\DAL.dll
+C:\Users\kaans\source\repos\OkulApp\DAL\obj\Debug\netstandard2.0\DAL.pdb

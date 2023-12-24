@@ -9,4 +9,12 @@ namespace OkulApp.MODEL
         public string Soyad { get; set; }
         public string Numara { get; set; }
     }
+
+    public class Ogretmen
+    {
+        public long TC { get; set; }
+        public string Ad { get; set; }
+        public string Soyad { get; set; }
+      
+    }
 }

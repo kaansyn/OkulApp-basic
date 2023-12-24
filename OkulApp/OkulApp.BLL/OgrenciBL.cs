@@ -19,5 +19,20 @@ namespace OkulApp.BLL
             return hlp.ExecuteNonQuery("Insert into tblOgrenciler values(@Ad, @Soyad, @Numara)", p) > 0;
 
         }
+
+        public class OgretmenBL
+        {
+            public bool OgretmenEkle(Ogretmen ogretmen)
+            {
+                SqlParameter[] p = {
+                            new SqlParameter("@TC", ogretmen.TC),
+                            new SqlParameter("@Ad", ogretmen.Ad),
+                            new SqlParameter("@Soyad", ogretmen.Soyad),                          
+                };
+
+                Helper hlp = new Helper();
+                return hlp.ExecuteNonQuery("Insert into tblOgretmenler values(@TC, @Ad, @Soyad)", p) > 0;
+            }
+        }
     }
 }
